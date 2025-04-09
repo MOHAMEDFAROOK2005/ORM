@@ -13,6 +13,9 @@ To develop a Django application to store and retrieve data from Movies Database 
 ### STEP 1:
 Clone the problem from GitHub
 
+
+
+
 ### STEP 2:
 Create a new app in Django project
 
