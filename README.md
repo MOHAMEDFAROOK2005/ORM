@@ -51,7 +51,8 @@ class MoviesAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Screenshot 2025-03-29 161737](https://github.com/user-attachments/assets/6863a3d3-b088-430c-b613-0227ee576bc2)
+![WhatsApp Image 2025-04-24 at 10 41 16_672dd657](https://github.com/user-attachments/assets/c09f592b-a3b5-43fd-817d-f2fb99187961)
+
 
 
 ## RESULT
